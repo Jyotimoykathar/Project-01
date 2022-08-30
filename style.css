@@ -105,7 +105,6 @@ body {
   justify-content: space-between;
   gap: 1.5rem;
   position: relative;
-  flex: 0 1 auto;
 }
 
 .hero-container .hero-img {
@@ -114,22 +113,28 @@ body {
   padding-top: 2rem;
 }
 .hero-container .hero-img img {
-  height: 100%;
+  height: 90%;
 }
 .square {
   position: absolute;
-  top: 43%;
-  left: 10.5%;
+  top: 40%;
+  left: 8.5%;
 }
 .globe {
   position: absolute;
-  top: 0;
+  top: -7%;
   left: 50%;
+}
+.globe img {
+  width: 80%;
 }
 .star {
   position: absolute;
-  top: 2rem;
+  top: 0;
   left: 95%;
+}
+.star img {
+  width: 80%;
 }
 .star::after {
   content: "";
@@ -149,20 +154,20 @@ body {
   flex-direction: column;
   justify-content: space-between;
   text-align: center;
-  padding-top: 6rem;
+  /* padding-top: 6rem; */
 }
 .hero-container-right .hero-heading {
   /* padding-left: 1rem; */
-  font-size: 4rem;
+  font-size: 3.5rem;
   font-weight: 900;
   color: #000;
-  margin-top: 3.5rem;
+  margin-top: 2.4rem;
   letter-spacing: 0.3rem;
 }
 .hero-description {
   margin-bottom: 5.5rem;
   font-family: "poppins";
-  padding: 2rem 15rem;
+  padding: 1.2rem 15rem;
 }
 
 /* HERO BUTTONS */
