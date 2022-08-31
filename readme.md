@@ -9,6 +9,7 @@ This is the first mini-challenge project among the 15 Ineuron-projects.
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [Time required](#time-required)
   - [What I learned](#continues-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
@@ -32,6 +33,10 @@ This is the first mini-challenge project among the 15 Ineuron-projects.
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox Css
+
+### Time required
+
+It took me nearly the hold day to place all the items in its place and complete the project.
 
 ### What I learned
 
